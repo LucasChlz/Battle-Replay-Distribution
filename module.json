@@ -2,12 +2,12 @@
     "id":  "battle-replay",
     "title":  "Battle Replay",
     "description":  "Record, analyze, direct, and share synchronized Foundry VTT combat replays with a visual timeline and self-contained ghost tokens.",
-    "version":  "0.6.0-beta.1",
+    "version":  "0.6.0-beta.2",
     "socket":  true,
     "license":  "LICENSE",
     "url":  "https://github.com/LucasChlz/Battle-Replay-Distribution",
-    "manifest":  "https://raw.githubusercontent.com/LucasChlz/Battle-Replay-Distribution/main/module.json",
-    "download":  "https://raw.githubusercontent.com/LucasChlz/Battle-Replay-Distribution/main/battle-replay-0.6.0-beta.1.zip",
+    "manifest":  "https://github.com/LucasChlz/Battle-Replay-Distribution/releases/latest/download/module.json",
+    "download":  "https://github.com/LucasChlz/Battle-Replay-Distribution/releases/download/v0.6.0-beta.2/battle-replay-0.6.0-beta.2.zip",
     "bugs":  "https://github.com/LucasChlz/Battle-Replay-Distribution/issues",
     "authors":  [
                     {
@@ -16,7 +16,7 @@
                 ],
     "compatibility":  {
                           "minimum":  "13.350",
-                          "verified":  "13.350"
+                          "verified":  "13.351"
                       },
     "esmodules":  [
                       "scripts/main.mjs"
